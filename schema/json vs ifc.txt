@@ -1,0 +1,7 @@
+json
+the most flexible for building from scratch
+
+ifc 
+based on step that has BREP represantation, geometry kernell ifcopenshell. Geometry saved in ifc can be viewed in many ifc viewer.
+
+Start with json and then transition to ifc.
